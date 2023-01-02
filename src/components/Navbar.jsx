@@ -27,7 +27,7 @@ export class Navbar extends Component {
               </Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" to="/health">
+              <Link className="nav-link" to="/react-news-app/health">
                 Health
               </Link>
             </li>
